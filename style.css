@@ -1,0 +1,953 @@
+         "line": 539
+          },
+          {
+            "sourceFile": "python/tests/integration/test_netrc.py",
+            "column": 9,
+            "line": 54
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "examples/typescript/customConfigReader.ts",
+            "column": 4,
+            "line": 60
+          },
+          {
+            "sourceFile": "examples/typescript/dual.ts",
+            "column": 49,
+            "line": 37
+          },
+          {
+            "sourceFile": "examples/typescript/sudoAsUser.ts",
+            "column": 26,
+            "line": 73
+          },
+          {
+            "sourceFile": "examples/typescript/sudoAsUser.ts",
+            "column": 30,
+            "line": 83
+          },
+          {
+            "sourceFile": "packages/hackathon/src/models/Hacker.ts",
+            "column": 41,
+            "line": 139
+          },
+          {
+            "sourceFile": "packages/sdk-codegen-scripts/src/exampleMiner.spec.ts",
+            "column": 40,
+            "line": 192
+          },
+          {
+            "sourceFile": "packages/sdk-codegen-scripts/src/exampleMiner.spec.ts",
+            "column": 81,
+            "line": 205
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 34,
+            "line": 327
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 34,
+            "line": 337
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 37,
+            "line": 360
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 34,
+            "line": 375
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 30,
+            "line": 380
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 34,
+            "line": 385
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 30,
+            "line": 391
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 30,
+            "line": 396
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 32,
+            "line": 939
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 30,
+            "line": 1160
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 30,
+            "line": 221
+          }
+        ],
+        ".tsx": [
+          {
+            "sourceFile": "packages/extension-playground/src/Playground.tsx",
+            "column": 36,
+            "line": 42
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/methodsTests.swift",
+            "column": 29,
+            "line": 47
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 29,
+            "line": 430
+          }
+        ]
+      }
+    },
+    "run_url_encoded_query": {
+      "operationId": "run_url_encoded_query",
+      "calls": {
+        ".cs": [
+          {
+            "sourceFile": "csharp/sdk/3.1/methods.cs",
+            "column": 17,
+            "line": 5227
+          },
+          {
+            "sourceFile": "csharp/sdk/4.0/methods.cs",
+            "column": 17,
+            "line": 6812
+          }
+        ],
+        ".go": [
+          {
+            "sourceFile": "go/sdk/v4/methods.go",
+            "column": 14,
+            "line": 5208
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/main/com/looker/sdk/4.0/methods.kt",
+            "column": 18,
+            "line": 6863
+          },
+          {
+            "sourceFile": "kotlin/src/main/com/looker/sdk/4.0/streams.kt",
+            "column": 18,
+            "line": 6862
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk/src/3.1/funcs.ts",
+            "column": 14,
+            "line": 7034
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/methods.ts",
+            "column": 16,
+            "line": 6588
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/methodsInterface.ts",
+            "column": 16,
+            "line": 4698
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/streams.ts",
+            "column": 16,
+            "line": 7565
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/funcs.ts",
+            "column": 14,
+            "line": 9110
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/methods.ts",
+            "column": 16,
+            "line": 8541
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/methodsInterface.ts",
+            "column": 16,
+            "line": 6027
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/streams.ts",
+            "column": 16,
+            "line": 9804
+          },
+          {
+            "sourceFile": "packages/sdk-codegen/src/python.gen.spec.ts",
+            "column": 13,
+            "line": 333
+          }
+        ],
+        ".py": [
+          {
+            "sourceFile": "python/looker_sdk/sdk/api31/methods.py",
+            "column": 17,
+            "line": 6445
+          },
+          {
+            "sourceFile": "python/looker_sdk/sdk/api40/methods.py",
+            "column": 17,
+            "line": 8412
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/sdk/methods.swift",
+            "column": 18,
+            "line": 7984
+          },
+          {
+            "sourceFile": "swift/looker/sdk/streams.swift",
+            "column": 18,
+            "line": 7982
+          }
+        ]
+      }
+    },
+    "user_for_credential": {
+      "operationId": "user_for_credential",
+      "calls": {
+        ".cs": [
+          {
+            "sourceFile": "csharp/sdk/3.1/methods.cs",
+            "column": 7,
+            "line": 7447
+          },
+          {
+            "sourceFile": "csharp/sdk/4.0/methods.cs",
+            "column": 7,
+            "line": 8885
+          }
+        ],
+        ".go": [
+          {
+            "sourceFile": "go/sdk/v4/methods.go",
+            "column": 4,
+            "line": 6730
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/main/com/looker/sdk/4.0/methods.kt",
+            "column": 8,
+            "line": 8940
+          },
+          {
+            "sourceFile": "kotlin/src/main/com/looker/sdk/4.0/streams.kt",
+            "column": 8,
+            "line": 8939
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk/src/3.1/funcs.ts",
+            "column": 4,
+            "line": 9699
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/methods.ts",
+            "column": 6,
+            "line": 9116
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/methodsInterface.ts",
+            "column": 6,
+            "line": 6555
+          },
+          {
+            "sourceFile": "packages/sdk/src/3.1/streams.ts",
+            "column": 6,
+            "line": 10462
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/funcs.ts",
+            "column": 4,
+            "line": 11545
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/methods.ts",
+            "column": 6,
+            "line": 10854
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/methodsInterface.ts",
+            "column": 6,
+            "line": 7716
+          },
+          {
+            "sourceFile": "packages/sdk/src/4.0/streams.ts",
+            "column": 6,
+            "line": 12441
+          }
+        ],
+        ".py": [
+          {
+            "sourceFile": "python/looker_sdk/sdk/api31/methods.py",
+            "column": 7,
+            "line": 9041
+          },
+          {
+            "sourceFile": "python/looker_sdk/sdk/api40/methods.py",
+            "column": 7,
+            "line": 10808
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/sdk/methods.swift",
+            "column": 8,
+            "line": 10377
+          },
+          {
+            "sourceFile": "swift/looker/sdk/streams.swift",
+            "column": 8,
+            "line": 10375
+          }
+        ]
+      }
+    },
+    "SearchDashboards": {
+      "operationId": "SearchDashboards",
+      "calls": {
+        ".go": [
+          {
+            "sourceFile": "examples/go/get_all_dashboards.go",
+            "column": 20,
+            "line": 21
+          },
+          {
+            "sourceFile": "go/integration/integration_test.go",
+            "column": 22,
+            "line": 569
+          }
+        ]
+      }
+    },
+    "SearchFolders": {
+      "operationId": "SearchFolders",
+      "calls": {
+        ".go": [
+          {
+            "sourceFile": "examples/go/get_all_folders.go",
+            "column": 17,
+            "line": 21
+          }
+        ]
+      }
+    },
+    "AllGroups": {
+      "operationId": "AllGroups",
+      "calls": {
+        ".go": [
+          {
+            "sourceFile": "examples/go/get_all_groups.go",
+            "column": 15,
+            "line": 21
+          }
+        ]
+      }
+    },
+    "SearchLooks": {
+      "operationId": "SearchLooks",
+      "calls": {
+        ".go": [
+          {
+            "sourceFile": "examples/go/get_all_looks.go",
+            "column": 15,
+            "line": 21
+          },
+          {
+            "sourceFile": "go/integration/integration_test.go",
+            "column": 16,
+            "line": 554
+          }
+        ]
+      }
+    },
+    "board": {
+      "operationId": "board",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_contents_to_favorite.py",
+            "column": 24,
+            "line": 29
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 28,
+            "line": 337
+          }
+        ]
+      }
+    },
+    "create_content_favorite": {
+      "operationId": "create_content_favorite",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_contents_to_favorite.py",
+            "column": 4,
+            "line": 38
+          },
+          {
+            "sourceFile": "examples/python/add_contents_to_favorite.py",
+            "column": 4,
+            "line": 71
+          }
+        ]
+      }
+    },
+    "dashboard": {
+      "operationId": "dashboard",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_contents_to_favorite.py",
+            "column": 20,
+            "line": 46
+          },
+          {
+            "sourceFile": "examples/python/add_contents_to_favorite.py",
+            "column": 24,
+            "line": 62
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 26,
+            "line": 95
+          },
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 28,
+            "line": 286
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/methodsTests.swift",
+            "column": 41,
+            "line": 130
+          }
+        ]
+      }
+    },
+    "search_groups": {
+      "operationId": "search_groups",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_users_to_group_from_csv.py",
+            "column": 12,
+            "line": 15
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/hackathon/src/models/Hacker.ts",
+            "column": 11,
+            "line": 250
+          }
+        ]
+      }
+    },
+    "search_users": {
+      "operationId": "search_users",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_users_to_group_from_csv.py",
+            "column": 28,
+            "line": 30
+          },
+          {
+            "sourceFile": "examples/python/cloud-function-user-provision/main.py",
+            "column": 10,
+            "line": 87
+          },
+          {
+            "sourceFile": "examples/python/disable_users_by_email.py",
+            "column": 20,
+            "line": 34
+          },
+          {
+            "sourceFile": "examples/python/transfer_all_schedules.py",
+            "column": 12,
+            "line": 23
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 11,
+            "line": 171
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "examples/typescript/sudoAsUser.ts",
+            "column": 4,
+            "line": 57
+          },
+          {
+            "sourceFile": "packages/hackathon/src/models/Hacker.ts",
+            "column": 11,
+            "line": 256
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 8,
+            "line": 146
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 10,
+            "line": 151
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 8,
+            "line": 191
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 10,
+            "line": 195
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 8,
+            "line": 533
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestSmoke.kt",
+            "column": 40,
+            "line": 17
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/methodsTests.swift",
+            "column": 31,
+            "line": 63
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 32,
+            "line": 93
+          }
+        ]
+      }
+    },
+    "add_group_user": {
+      "operationId": "add_group_user",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/add_users_to_group_from_csv.py",
+            "column": 24,
+            "line": 33
+          }
+        ]
+      }
+    },
+    "send_user_credentials_email_password_reset": {
+      "operationId": "send_user_credentials_email_password_reset",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/cloud-function-user-provision/main.py",
+            "column": 4,
+            "line": 77
+          },
+          {
+            "sourceFile": "examples/python/cloud-function-user-provision/main.py",
+            "column": 2,
+            "line": 114
+          }
+        ]
+      }
+    },
+    "create_user": {
+      "operationId": "create_user",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/cloud-function-user-provision/main.py",
+            "column": 13,
+            "line": 94
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 11,
+            "line": 28
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 15,
+            "line": 93
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 8,
+            "line": 197
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestSmoke.kt",
+            "column": 19,
+            "line": 22
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 10,
+            "line": 165
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 12,
+            "line": 478
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 31,
+            "line": 99
+          }
+        ]
+      }
+    },
+    "create_user_credentials_email": {
+      "operationId": "create_user_credentials_email",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/cloud-function-user-provision/main.py",
+            "column": 2,
+            "line": 106
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 77
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 136
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 21,
+            "line": 179
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 12,
+            "line": 511
+          }
+        ]
+      }
+    },
+    "run_query": {
+      "operationId": "run_query",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/cloud-function-write-to-bigquery/main.py",
+            "column": 10,
+            "line": 23
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 14,
+            "line": 306
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 16,
+            "line": 309
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 14,
+            "line": 319
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 37,
+            "line": 201
+          },
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 40,
+            "line": 234
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 14,
+            "line": 760
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 14,
+            "line": 770
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 14,
+            "line": 773
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 14,
+            "line": 888
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 14,
+            "line": 891
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 33,
+            "line": 117
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 33,
+            "line": 121
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 34,
+            "line": 125
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 30,
+            "line": 142
+          }
+        ]
+      }
+    },
+    "all_folders": {
+      "operationId": "all_folders",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/content_validator_comparison.py",
+            "column": 18,
+            "line": 52
+          },
+          {
+            "sourceFile": "examples/python/folder_permission_access.py",
+            "column": 18,
+            "line": 23
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestMethods.kt",
+            "column": 14,
+            "line": 299
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/methodsTests.swift",
+            "column": 22,
+            "line": 137
+          },
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 30,
+            "line": 262
+          }
+        ]
+      }
+    },
+    "content_validation": {
+      "operationId": "content_validation",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/content_validator_comparison.py",
+            "column": 21,
+            "line": 58
+          }
+        ],
+        ".rb": [
+          {
+            "sourceFile": "examples/ruby/validate_content.rb",
+            "column": 20,
+            "line": 15
+          }
+        ]
+      }
+    },
+    "update_session": {
+      "operationId": "update_session",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/content_validator_comparison.py",
+            "column": 4,
+            "line": 140
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 277
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 22,
+            "line": 284
+          }
+        ],
+        ".rb": [
+          {
+            "sourceFile": "examples/ruby/dev_vs_prod.rb",
+            "column": 0,
+            "line": 32
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "examples/typescript/validateBranch.ts",
+            "column": 6,
+            "line": 16
+          }
+        ]
+      }
+    },
+    "create_connection": {
+      "operationId": "create_connection",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/create_db_connections.py",
+            "column": 0,
+            "line": 16
+          }
+        ]
+      }
+    },
+    "update_user": {
+      "operationId": "update_user",
+      "calls": {
+        ".py": [
+          {
+            "sourceFile": "examples/python/disable_users_by_email.py",
+            "column": 4,
+            "line": 20
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 59
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 71
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 6,
+            "line": 120
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 121
+          },
+          {
+            "sourceFile": "python/tests/integration/test_methods.py",
+            "column": 4,
+            "line": 130
+          }
+        ],
+        ".rb": [
+          {
+            "sourceFile": "examples/ruby/disable_users.rb",
+            "column": 4,
+            "line": 16
+          }
+        ],
+        ".kt": [
+          {
+            "sourceFile": "kotlin/src/test/TestSmoke.kt",
+            "column": 36,
+            "line": 101
+          },
+          {
+            "sourceFile": "kotlin/src/test/TestSmoke.kt",
+            "column": 35,
+            "line": 104
+          }
+        ],
+        ".ts": [
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 23,
+            "line": 159
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 12,
+            "line": 491
+          },
+          {
+            "sourceFile": "packages/sdk-node/test/methods.spec.ts",
+            "column": 12,
+            "line": 502
+          }
+        ],
+        ".swift": [
+          {
+            "sourceFile": "swift/looker/Tests/lookerTests/smokeTests.swift",
+            "column": 35,
+            "line": 437
+          },
